@@ -1,4 +1,4 @@
-#This code has been made by Timur Hromek, please don't copy without my mention.
+#This code has been made by Energyboy, please don't copy without my mention.
 
 #Dear programer:
 #when I wrote this code, only God and
